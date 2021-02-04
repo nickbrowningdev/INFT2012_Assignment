@@ -1,0 +1,10 @@
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\bin\Debug\NicholasBrowningAssgt1.exe.config
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\bin\Debug\NicholasBrowningAssgt1.exe
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\bin\Debug\NicholasBrowningAssgt1.pdb
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.csprojAssemblyReference.cache
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.GameScreen.resources
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.Properties.Resources.resources
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.csproj.GenerateResource.cache
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.csproj.CoreCompileInputs.cache
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.exe
+D:\NicholasBrowningAssgt1\NicholasBrowningAssgt1\obj\Debug\NicholasBrowningAssgt1.pdb
